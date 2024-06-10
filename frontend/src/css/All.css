@@ -1,0 +1,38 @@
+.Cardcss 
+{
+    background-color: #E0E0E0		;
+    border: none;
+    width: 200px;
+    height: 380px;
+
+}
+.Cardcss:hover 
+{
+    transform: scale(1.1);
+    border: 2px solid black;
+}
+.product_desc {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Buttoncss {
+    background-color: #E8E8E8	;
+    transition: all 0.2s ease-in-out;
+    border: none;
+}
+.Buttoncss:hover {
+    background-color: #606060	;
+}
+.Search_navbar {
+    display: 'flex';
+    width: 80%;
+}
+
+.Search_button
+{
+    background-color: #E0E0E0 ; 
+    border : 0px;
+}
+.Search_button:hover
+{
+    background-color: #606060;
+}
